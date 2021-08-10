@@ -9,7 +9,7 @@
 <body>
 
     <a href="./index.php">Home</a> | <a href="tambah.php">Tambah</a>
-    <h1>Modul Anggota</h1>
+    <h1>Modul List Produk</h1>
     <form action="<?php echo $_SERVER["PHP_SELF"];?>" method="post">
     <div class="form-group">
         <label for="sel1">Kata Kunci:</label>
